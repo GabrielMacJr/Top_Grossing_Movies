@@ -1,9 +1,9 @@
 # Top Grossing Movies
-<b>Goal</b>:The goal of this project is to find the Top Grossing Movies (Domestic U.S.) and create a Power BI model
+<b>Goal</b>: The goal of this project is to find the Top Grossing Movies (Domestic U.S.) and create a Power BI model
 
 
 # Excel Sheet 
-<h4>The following tables are used to create a Power BI Design of the Top Grossing Movies (Domestic U.S.)</h4>
+<h4>The following tables are used to create a Power BI model of the Top Grossing Movies (Domestic U.S.)</h4>
 
 <h4>The first table is the <b>Weekly Movies</b>:</h4>
 
@@ -25,8 +25,8 @@ The <b>Domestic Movies Data Table</b> shows all the data gathered by the <b>Week
 
 
 
-# Microsoft Power BI Design
-The interactive design was done using both tables mentioned above.
+# Microsoft Power BI Model
+The interactive model was done using both tables mentioned above.
 
 ![PowerBI-TopMovies](https://user-images.githubusercontent.com/110753469/195773317-1e6220a6-3a3e-47ca-949f-580c491bf184.PNG)
 
