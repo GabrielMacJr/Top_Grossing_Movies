@@ -26,7 +26,7 @@ The <b>Domestic Movies Data Table</b> shows all the data gathered by the <b>Week
 
 
 # Microsoft Power BI Model
-The interactive model was done using both tables mentioned above.
+The model was done using both tables mentioned above.
 
 ![PowerBI-TopMovies](https://user-images.githubusercontent.com/110753469/195773317-1e6220a6-3a3e-47ca-949f-580c491bf184.PNG)
 
