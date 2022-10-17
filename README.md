@@ -3,7 +3,7 @@
 
 
 # Excel Sheet 
-<h4>The following tables are used to create a Power BI model of the Top Grossing Movies (Domestic U.S.)</h4>
+<h4>The following tables are used to create a Power BI model of the top grossing movies (Domestic U.S.)</h4>
 
 <h4>The first table is the <b>Weekly Movies</b>:</h4>
 
