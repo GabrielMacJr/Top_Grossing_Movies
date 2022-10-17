@@ -14,7 +14,7 @@ The <b>Weekly Movies</b> table is designed to download weekly movie data. <br>Re
 The <b>Weekly Movies</b> table has two columns: 
 <ol>
   <li> <b>"Year"</b> column: Movie year</li>
-  <li> <b>"URL"</b> column: The url from where the data is being downloaded</li>
+  <li> <b>"URL"</b> column: The URL from where the data is being downloaded</li>
 </ol>
 If past years' data is needed, just type the year on the "Year" column and press enter. Then refresh to update the data.
 
