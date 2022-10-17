@@ -19,7 +19,7 @@ The <b>Weekly Movies</b> table has two columns:
 If past years' data is needed, just type the year on the "Year" column and press enter. Then refresh to update the data.
 
 <h4>The second table is the <b>Domestic Movies Data Table</b>:</h4>
-The <b>Domestic Movies Data Table</b> is 
+The <b>Domestic Movies Data Table</b> shows all the data gathered by the <b>Weekly Movies</b> table
 
 ![Excel-TopMovies](https://user-images.githubusercontent.com/110753469/196091424-c67de003-17f7-4bff-9a65-8becfc8202a9.PNG)
 
