@@ -9,7 +9,7 @@
 
 ![Excel-LeftTopMovies](https://user-images.githubusercontent.com/110753469/196090257-d65855c4-2a0f-49da-8cdd-3c4caee72296.PNG)
 
-The <b>Weekly Movies</b> table is designed to download weekly movie data. <br>Refresh to see recent weekly data on the <b>Domestic Movies Data Table</b> (Shown below).</br>
+The <b>Weekly Movies</b> table is designed to download weekly movie data. <br>Refresh to see recent weekly data on the <b>Domestic Movies Data Table</b> (shown below).</br>
 
 The <b>Weekly Movies</b> table has two columns: 
 <ol>
