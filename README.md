@@ -1,5 +1,5 @@
 # Top Grossing Movies
-Find the Top Grossing Movies (Domestic U.S.) on Power BI
+<b>Goal</b>:The goal of this project is to find the Top Grossing Movies (Domestic U.S.) and create a Power BI model
 
 
 # Excel Sheet 
