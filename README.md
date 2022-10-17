@@ -16,7 +16,7 @@ The <b>Weekly Movies</b> table has two columns:
   <li> <b>"Year"</b> column: Movie year</li>
   <li> <b>"URL"</b> column: The URL from where the data is being downloaded</li>
 </ol>
-If past years' data is needed, just type the year on the "Year" column and press enter. Then refresh to update the data.
+If past years' data is needed, just type the year on the "Year" column of teh <b>Weekly Movies</b> table and press enter. Then refresh to update the data. The new data will appear on the <b>Domestic Movies Data Table</b> (shown below).
 
 <h4>The second table is the <b>Domestic Movies Data Table</b>:</h4>
 The <b>Domestic Movies Data Table</b> shows all the data gathered by the <b>Weekly Movies</b> table
