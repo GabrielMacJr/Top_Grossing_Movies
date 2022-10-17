@@ -16,14 +16,12 @@ The <b>Weekly Movies</b> table has two columns:
   <li> <b>"Year"</b> column: Movie year</li>
   <li> <b>"URL"</b> column: The URL from where the data is being downloaded</li>
 </ol>
-If past years' data is needed, just type the year on the "Year" column of teh <b>Weekly Movies</b> table and press enter. Then refresh to update the data. The new data will appear on the <b>Domestic Movies Data Table</b> (shown below).
+If past years' data is needed, just type the year on the "Year" column of the <b>Weekly Movies</b> table and press enter. Then refresh to update the data. The new data will appear on the <b>Domestic Movies Data Table</b> (shown below).
 
 <h4>The second table is the <b>Domestic Movies Data Table</b>:</h4>
 The <b>Domestic Movies Data Table</b> shows all the data gathered by the <b>Weekly Movies</b> table
 
 ![Excel-TopMovies](https://user-images.githubusercontent.com/110753469/196091424-c67de003-17f7-4bff-9a65-8becfc8202a9.PNG)
-
-
 
 # Microsoft Power BI Model
 The model was done using both tables mentioned above.
