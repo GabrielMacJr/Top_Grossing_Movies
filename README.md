@@ -5,7 +5,7 @@
 # Objective
 The goal of this project is to find the top grossing movies (Domestic U.S.) and create a Power BI model
 
-# Microsoft Power BI Model
+# Microsoft Power BI Dashboard
 The model was done using both tables mentioned below.
 
 
